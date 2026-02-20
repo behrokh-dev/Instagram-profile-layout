@@ -19,7 +19,6 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Insta
 ## ✨ Features
 
 - Clean and minimal UI
-- Fully responsive layout
 - CSS Grid-based post gallery
 - Modern profile header section
 - Hover effects for posts
