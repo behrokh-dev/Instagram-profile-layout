@@ -32,7 +32,7 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Insta
 ## 📷 Screenshots
 
 ### 🏠 Profile Header
-![Profile Header](./screenshots/profile-header.png)
+![Image](https://github.com/user-attachments/assets/495cd6bc-8e81-4c5f-9c94-a7033ee1fe8b)
 
 ### 🖼 Post Grid Layout
 ![Post Grid](./screenshots/post-grid.png)
