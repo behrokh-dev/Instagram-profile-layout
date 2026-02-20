@@ -54,7 +54,6 @@ This project was built to practice:
 - Layout structuring with CSS Grid
 - Building real-world UI clones
 - Writing clean & organized CSS
-- Responsive design principles
 - Front-end fundamentals without frameworks
 
 ---
