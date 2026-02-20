@@ -13,7 +13,7 @@ This project recreates the profile grid structure inspired by Instagram’s user
 
 ## 📸 Preview & Live Demo
 
-Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Cherriesville/)
+Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Instagram-profile-layout/)
 
 ---
 
