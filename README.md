@@ -35,7 +35,7 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Insta
 ![Image](https://github.com/user-attachments/assets/495cd6bc-8e81-4c5f-9c94-a7033ee1fe8b)
 
 ### 🖼 Post Grid Layout
-![Post Grid](./screenshots/post-grid.png)
+![Image](https://github.com/user-attachments/assets/567ecc5d-2942-4e4d-bdc0-b4db0d2c8bd4)
 
 ---
 
