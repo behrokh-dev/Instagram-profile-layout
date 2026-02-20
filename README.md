@@ -2,7 +2,6 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
-![Responsive](https://img.shields.io/badge/Design-Responsive-success?style=for-the-badge)
 
 A clean, minimal and responsive Instagram profile layout built using pure HTML & CSS.  
 This project recreates the profile grid structure inspired by Instagram’s user interface.
@@ -36,6 +35,7 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Insta
 
 ### 🖼 Post Grid Layout
 ![Image](https://github.com/user-attachments/assets/567ecc5d-2942-4e4d-bdc0-b4db0d2c8bd4)
+![Image](https://github.com/user-attachments/assets/dc8d30f4-0b64-4df5-846d-f91d924af13b)
 
 ---
 
@@ -45,8 +45,6 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Insta
 - CSS3
 - Flexbox
 - CSS Grid
-
-No frameworks. No libraries. Pure frontend fundamentals.
 
 ---
 
