@@ -17,19 +17,6 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Insta
 
 ---
 
-## 📷 Screenshots
-
-### 🏠 Profile Header
-![Profile Header](./screenshots/profile-header.png)
-
-### 🖼 Post Grid Layout
-![Post Grid](./screenshots/post-grid.png)
-
-
-> 💡 Tip: Create a `screenshots` folder in your project and put your images there.
-
----
-
 ## ✨ Features
 
 - Clean and minimal UI
@@ -39,6 +26,16 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Insta
 - Hover effects for posts
 - Mobile-friendly design
 - Lightweight & fast
+
+---
+
+## 📷 Screenshots
+
+### 🏠 Profile Header
+![Profile Header](./screenshots/profile-header.png)
+
+### 🖼 Post Grid Layout
+![Post Grid](./screenshots/post-grid.png)
 
 ---
 
