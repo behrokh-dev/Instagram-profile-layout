@@ -12,7 +12,7 @@ This project recreates the profile grid structure inspired by Instagram’s user
 ## 🔗 Live Demo
 
 🚀 **View Online:**  
-👉 https://your-live-demo-link.com
+👉 https://behrokh-dev.github.io/Instagram-profile-layout/
 
 ---
 
